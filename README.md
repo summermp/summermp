@@ -22,4 +22,4 @@
 
 ## 📫 Contact  
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge)](mailto:summervelis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ai-ml-dev/)
