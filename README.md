@@ -5,7 +5,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
-### 🎯 Junior Java Developer | Backend | Open to Opportunities
+### 🎯 Java Developer | Backend |
 
 - Backend development with **Java + Spring Boot**  
 - Experience with **JPA, MySQL, REST APIs**  
